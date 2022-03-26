@@ -3,10 +3,8 @@ import SelectedItem from '../SeletedItem/SelectedItem';
 import './Cart.css'
 
 const Cart = (props) => {
-    const { cart } = props;
-    const SelectedProduct = () => {
-        console.log('click')
-    }
+    const { cart, SelectedProduct } = props;
+
 
     return (
         <div className='cart-item'>
@@ -26,7 +24,7 @@ const Cart = (props) => {
 
 
             </div>
-            <button className='btn' onClick={SelectedProduct}>Chose For Me</button>
+            <button className='btn' onClick={() => SelectedProduct(props.product)}>Chose For Me</button>
 
 
         </div>

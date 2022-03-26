@@ -7,6 +7,20 @@
 .image{
     margin-right: 2px;
 }
+.btn{
+    color: black;
+    margin: 50px;
+    padding: 7px;
+    background-color: coral;
+    border-radius: 10px;
+    
+  
+
+}
+.btn:hover{
+    background-color: rgb(245, 245, 130);
+
+}
 /* .button{
     color: black;
     border-radius: 10px;

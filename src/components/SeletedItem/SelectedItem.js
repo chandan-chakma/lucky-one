@@ -5,6 +5,7 @@ const SelectedItem = (props) => {
     const { picture, name } = props;
     return (
 
+
         <div className='selected-item'>
             <div className='image'>
                 <img src={picture} alt="" />
