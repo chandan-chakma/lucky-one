@@ -13,18 +13,5 @@
     height: 30px;
     border-radius: 50%;
 }
-.btn{
-    color: black;
-    margin: 50px;
-    padding: 7px;
-    background-color: coral;
-    border-radius: 10px;
-    
-  
 
-}
-.btn:hover{
-    background-color: rgb(245, 245, 130);
-
-}
 
