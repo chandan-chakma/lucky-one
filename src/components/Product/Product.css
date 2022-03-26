@@ -1,0 +1,25 @@
+.product{
+    width: 300px;
+    height: 510px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+
+.product img{
+    width: 286px;
+    height: 286px;
+    margin: 7px;
+    border-radius: 10px;
+
+}
+.product h2{
+    font-size: 22px;
+    font-family: lato;
+    font-weight: 500;
+}
+.product p{
+    font-size: 17px;
+    font-weight: 600;  
+}

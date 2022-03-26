@@ -1,11 +1,14 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './Shop.css'
+import Product from './../Product/Product';
 
 const Shop = () => {
+
+
     return (
         <div className='shop-container'>
             <div className='products'>
-                <h1>product</h1>
+
 
             </div>
             <div className='cart'>
