@@ -2,9 +2,12 @@ import React from 'react';
 import './SelectedItem.css'
 
 const SelectedItem = (props) => {
-    const { picture, name } = props;
-    return (
 
+
+    const { picture, name } = props;
+
+
+    return (
 
         <div className='selected-item'>
             <div className='image'>
@@ -15,9 +18,6 @@ const SelectedItem = (props) => {
             </div>
 
         </div>
-
-
-
 
 
     );
