@@ -3,7 +3,7 @@
 git hub link [hill mart github](https://github.com/Programming-Hero-Web-Course4/lucky-one-chandan-chakma).
 
 ##live site link
- [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ [hill mart](https://meek-kelpie-720e57.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
