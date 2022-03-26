@@ -1,0 +1,30 @@
+.cart-item{
+   position: sticky;
+   top:0;
+}
+.cart-item p{
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.cart img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.btn{
+    color: black;
+    margin: 50px;
+    padding: 7px;
+    background-color: coral;
+    border-radius: 10px;
+    
+  
+
+}
+.btn:hover{
+    background-color: rgb(245, 245, 130);
+
+}
+

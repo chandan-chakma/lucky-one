@@ -1,0 +1,14 @@
+.selected-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.image{
+    margin-right: 2px;
+}
+/* .button{
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+} */
